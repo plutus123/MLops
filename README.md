@@ -78,11 +78,6 @@ To run the unit tests locally, use the following command:
 ```
 python -m unittest tests/test_mlops.py
 ```
-Continuous Integration (CI) Pipeline
-
-A CI pipeline has been configured using [Testing Service Name]. The pipeline automatically runs the unit tests on every push to the repository.
-
-Test results can be viewed in the CI/CD pipeline on [Testing Service Name]. A badge indicating the build status may be added to the README file.
 
 Repository Structure
 /data: Contains the dataset used for training the machine learning model.
