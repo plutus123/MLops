@@ -29,8 +29,9 @@ Building the Docker Image
 
 To build the Docker image, execute the following command in your terminal:
 
-bash
+
 ```
+bash
 docker build -t vishwasmishra/mlops_image:v1 .
 ```
 This command instructs Docker to build an image based on the instructions in the Dockerfile and tag it as vishwasmishra/mlops_image:v1.
