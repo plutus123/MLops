@@ -1,6 +1,6 @@
 # MLops
 
-Step 2: Docker Containerization
+Docker Containerization
 
 In this step, we'll containerize the machine learning model along with its dependencies using Docker. This will allow for consistent and reproducible deployment across different environments.
 
