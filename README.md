@@ -24,7 +24,8 @@ RUN pip install --no-cache-dir scikit-learn pandas
 
 # Command to run the machine learning script
 CMD ["python", "MLops.ipynb"]
-Building the Docker Image
+
+```Building the Docker Image
 To build the Docker image, execute the following command in your terminal:
 
 bash
