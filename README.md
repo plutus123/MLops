@@ -7,10 +7,15 @@ The Random Forest Classifier has been chosen for its high accuracy, precision, r
 Various hyperparameters were tuned to achieve optimal results.
 
 ### Results
+
 Accuracy Score: 0.925
+
 Precision Score: 0.875
+
 Recall Score: 0.9333
+
 F1 Score: 0.9032
+
 Log Loss: 0.3516
 
 
