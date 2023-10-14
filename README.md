@@ -1,5 +1,19 @@
 # MLops
 
+
+### Repository Structure
+
+/data: Contains the dataset used for training the machine learning model.
+
+/MLop: Contains the main Python script for training the model (MLops.ipynb).
+
+/tests: Contains unit tests for the machine learning code.
+
+Dockerfile: Contains instructions for Docker containerization.
+
+README.md: The main documentation file.
+
+
 ### Step 1 :Testing Process
 
 The Random Forest Classifier has been chosen for its high accuracy, precision, recall, F1 score, and low log loss.
@@ -98,18 +112,6 @@ To run the unit tests locally, use the following command:
 ```
 python -m unittest tests/test_mlops.py
 ```
-
-### Repository Structure
-
-/data: Contains the dataset used for training the machine learning model.
-
-/MLop: Contains the main Python script for training the model (MLops.ipynb).
-
-/tests: Contains unit tests for the machine learning code.
-
-Dockerfile: Contains instructions for Docker containerization.
-
-README.md: The main documentation file.
 
 Version Control
 
