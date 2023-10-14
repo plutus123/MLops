@@ -31,7 +31,6 @@ To build the Docker image, execute the following command in your terminal:
 
 
 ```
-bash
 docker build -t vishwasmishra/mlops_image:v1 .
 ```
 This command instructs Docker to build an image based on the instructions in the Dockerfile and tag it as vishwasmishra/mlops_image:v1.
@@ -40,7 +39,6 @@ Running the Docker Image
 
 You can run the Docker image with the following command:
 
-bash
 ```
 docker run vishwasmishra/mlops_image:v1
 ```
@@ -53,13 +51,11 @@ If you want to share your Docker image, you can push it to a container registry 
 
 2.Tag the image with your Docker Hub username:
 
-bash
 ```
 docker tag vishwasmishra/mlops_image:v1 vishwasmishra/mlops_image:v1
 ```
 
 Push the image to Docker Hub:
-bash
 ```
 docker push vishwasmishra/mlops_image:v1
 ```
