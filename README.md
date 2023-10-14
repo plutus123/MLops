@@ -1,5 +1,20 @@
 # MLops
 
+### Step 1 :Testing Process
+
+The Random Forest Classifier has been chosen for its high accuracy, precision, recall, F1 score, and low log loss.
+
+Various hyperparameters were tuned to achieve optimal results.
+
+### Results
+Accuracy Score: 0.925
+Precision Score: 0.875
+Recall Score: 0.9333
+F1 Score: 0.9032
+Log Loss: 0.3516
+
+
+
 ### Step 2 :Docker Containerization
 
 In this step, we'll containerize the machine learning model along with its dependencies using Docker. This will allow for consistent and reproducible deployment across different environments.
