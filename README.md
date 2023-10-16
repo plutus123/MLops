@@ -97,9 +97,7 @@ docker push vishwasmishra/mlops_image:v1
 Please remember to replace `vishwasmishra/mlops_image:v1` with your actual Docker Hub repository and image name. Additionally, make sure that the Dockerfile and the required files (`MLops.ipynb` and `Social_Network_Ads.csv`) are in the same directory as your README.md file.
 
 
-### Step 3:Unable To make account in any of the cloud platform since I have a SBI debit card and they are not accepting it.
-
-## Step 4: Automated Testing
+## Step 3: Automated Testing
 
 Automated testing has been set up to ensure the reliability of the machine learning code.
 
